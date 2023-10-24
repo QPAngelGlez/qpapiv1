@@ -1,0 +1,14 @@
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/CoreAPIQPro
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/appsettings.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/JsonResponses/GER_Test_v1.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/JsonResponses/SUB_Test_v1.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/CoreAPIQPro.dll
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/CoreAPIQPro.deps.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/CoreAPIQPro.runtimeconfig.json
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/CoreAPIQPro.pdb
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/qp2022/Projects/CoreAPIQPro/CoreAPIQPro/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
